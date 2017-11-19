@@ -36,5 +36,5 @@ $ apex alias -v 10 stage myfunction
 Alias specific function's alias "dev" to "stage" alias (promote dev to stage):
 
 ```
-$ apex alias stage dev myfunction
+$ apex alias stage -v dev myfunction
 ```
